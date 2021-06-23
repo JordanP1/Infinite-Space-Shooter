@@ -1,6 +1,8 @@
 # Infinite-Space-Shooter
 A bullet shooter game that plays indefinitely until the player is destroyed.
 
+Release download here: https://github.com/JordanP1/Infinite-Space-Shooter/releases
+
 # Controls
 W A S D - Movement
 
